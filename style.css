@@ -1,0 +1,61 @@
+
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   }
+
+h1{
+    color: white;
+    text-align: center;
+    background-color: orangered;
+    /*fill-opacity: .4;*/
+    font-family: "Georgia", Georgia, serif;
+    border-radius: 5px;
+}
+
+p {
+    font-family: "Georgia", Georgia, serif;
+    color: white;
+  }
+form{ 
+    font-family: "Georgia", Georgia, serif;
+    color: white;
+}
+
+footer{
+    font-family: "Georgia", Georgia, serif;
+    color: white;
+}
+.nav ul{
+    list-style-type: none;
+    background-color: hsl(199, 82%, 42%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.nav a:hover{
+    background-color: hsl(199, 82%, 30%);
+}
+.nav li{
+    float: left;
+}
+img { 
+    display: block;
+    padding: 10px;
+    margin: auto;
+    
+    
+}
+.img Alfa {
+    
+}
